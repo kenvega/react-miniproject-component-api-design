@@ -1,4 +1,7 @@
-# React + TypeScript + Vite
+# Mini project component api design
+
+<img width="1025" height="1026" alt="image" src="https://github.com/user-attachments/assets/facde87a-1d54-4540-9c29-67cf47ced00c" />
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
